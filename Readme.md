@@ -19,8 +19,13 @@ Result 表單中 NBA 球員的搜尋結果是使用 Switch 並預設 points 排�
 進階搜尋：使用 post 查詢隊伍以及使用模糊比對關鍵字(SQL 語法)
   
   <h4>搜尋功能</h4>
-  ![image](https://github.com/amberyufangchiu/datago/blob/main/搜尋功能_AdobeCreativeCloudExpress.gif)
+
+![image](https://github.com/amberyufangchiu/datago/blob/main/搜尋功能_AdobeCreativeCloudExpress.gif)
+  
   <h4>detail功能</h4>
-  ![image](https://github.com/amberyufangchiu/datago/blob/main/detail功能_AdobeCreativeCloudExpress.gif)
+  
+![image](https://github.com/amberyufangchiu/datago/blob/main/detail功能_AdobeCreativeCloudExpress.gif)
+  
   <h4>Chart功能</h4>
-  ![image](https://github.com/amberyufangchiu/datago/blob/main/chart功能_AdobeCreativeCloudExpress.gif)
+  
+![image](https://github.com/amberyufangchiu/datago/blob/main/chart功能_AdobeCreativeCloudExpress.gif)
